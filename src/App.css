@@ -520,7 +520,7 @@ img{
 
 .project__title, .project__description{
   color: var(--first-color-lighten);
-}
+}  
 
 .project__description{
   margin-bottom: var(--mb-4);

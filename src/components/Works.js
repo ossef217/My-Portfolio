@@ -14,7 +14,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title">Simple Website Bootstrap4</span>
+                        <span className="works__title">Project #1</span>
                     </div>
                 </div>
 
@@ -22,7 +22,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 2</span>
+                        <span className="works__title">Project #2</span>
                     </div>
                 </div>
 
@@ -30,7 +30,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 3</span>
+                        <span className="works__title">Project #3</span>
                     </div>
                 </div>
 
@@ -38,7 +38,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 4</span>
+                        <span className="works__title">Project #4</span>
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 5</span>
+                        <span className="works__title">Project #5</span>
                     </div>
                 </div>
 
@@ -54,7 +54,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 6</span>
+                        <span className="works__title">Project #6</span>
                     </div>
                 </div>
 

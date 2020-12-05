@@ -22,7 +22,7 @@ function App() {
           </div>
 
           <div>
-            <a href="/#" target="_blank" rel="noopener noreferrer" className="nav__logo"><i className='bx bx-phone'> 646-379-3176</i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer" className="nav__logo"><i className='bx bx-phone'> 646-379-3176</i></a>
           </div>
 
           <div className="nav__menu" id="nav-menu">

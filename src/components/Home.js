@@ -19,7 +19,7 @@ const Home = () => {
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="home__social-link"><i className='bx bxl-facebook'></i></a>
                     </div>
 
-                    <a download="" href="/#" target="_blank" rel="noopener noreferrer" className="button home__button">Download Resume</a>
+                    <a href={require('../assets/my-resume/Youssef-Elhaimoudi-Resume.pdf')} target="_blank" rel="noopener noreferrer" className="button home__button" download="Youssef Elhaimoudi Resume">Download Resume</a>
 
                 </div>
             </div>

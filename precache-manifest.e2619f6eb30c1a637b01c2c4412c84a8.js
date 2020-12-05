@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5839e25d4f5954e0eb1cfdbd833a5f06",
+    "revision": "0a9386cf3377c1d1a2c8811fe51d20f7",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "a696f91b3ce01f96d00e",
+    "revision": "d4b76c54df94e1347bae",
     "url": "/my-portfolio/static/css/main.de7fbe04.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/js/2.db478720.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a696f91b3ce01f96d00e",
-    "url": "/my-portfolio/static/js/main.ea2536af.chunk.js"
+    "revision": "d4b76c54df94e1347bae",
+    "url": "/my-portfolio/static/js/main.aca35f23.chunk.js"
   },
   {
     "revision": "8fdfe7409b5127ae81b2",
     "url": "/my-portfolio/static/js/runtime-main.04e5d10b.js"
+  },
+  {
+    "revision": "a30aa8e7f2db728d8ac76cbc9eac0867",
+    "url": "/my-portfolio/static/media/Youssef-Elhaimoudi-Resume.a30aa8e7.pdf"
   },
   {
     "revision": "3b9b2b967cdd8a094263afd109e9ff17",

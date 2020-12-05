@@ -16,7 +16,7 @@ closeMenu.addEventListener('click', ()=>{
 })
 
 /* Remove Menu */
-const navLink = document.querySelectorAll('.nav__link')
+const navLink = document.body.querySelectorAll('.nav__link, .home, .about, .education, .skills, .project, .services, .works, .contact, .footer')
 
 function linkAction(){
     navMenu.classList.remove('show')

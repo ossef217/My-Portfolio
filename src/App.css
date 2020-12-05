@@ -4,7 +4,7 @@
 /*===== VARIABLES CSS =====*/
 :root{
   --header-height: 3rem;
-  --nav-width: 324px;
+  --nav-width: 270px;
   
   /*===== Font weight =====*/
   --font-medium: 500;
@@ -148,7 +148,7 @@ img{
   position: fixed;
   top: 0;
   left: -100%;
-  width: 50%;
+  width: 30%;
   height: 100vh;
   padding: 3rem;
   display: flex;
@@ -761,6 +761,7 @@ img{
   /*.1-header{
     width: 0;
   }*/
+/*.nav__logo*/
 
   .nav__toggle, .nav__logo, .nav__close{
     display: none;

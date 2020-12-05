@@ -14,7 +14,7 @@ const Works = () => {
                     <img src={require('../assets/profile1.png')} alt="Recent Works" class="project__img" />
                     <div className="works__data">
                         <a href="/#" target="_blank" rel="noopener noreferrer" className="works__link"><i className="bx bx-link-alt"></i></a>
-                        <span className="works__title"> Work 1</span>
+                        <span className="works__title">Simple Website Bootstrap4</span>
                     </div>
                 </div>
 
